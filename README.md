@@ -1,9 +1,7 @@
-# ALLOCATE
-**A**daptive **L**earning of optimaL-transp**O**rt-based **C**ell **A**lignmen**T** and **E**volution
+# ALLOCATE ： **A**daptive **L**earning of optimaL-transp**O**rt-based **C**ell **A**lignmen**T** and **E**volution
 
-![figure_1](https://github.com/Jiaxin-bio/my_allocate/fig1.png)
+![Fig1](https://github.com/user-attachments/assets/2bbf3a6a-45c9-4682-9d8f-402f2f4e8b44)
 
-ALLOCATE：Adaptive Learning of optimaL-transpOrt-based Cell AlignmenT and Evolution 
 
 ALLOCATE advances optimal transport by explicitly modeling key characteristics of temporally evolving cellular systems, improving the corresponding assignment probabilities. It also provides interpretability for the potential of cellular growth and death, enabling a quantitative description of developmental and disease dynamics.
 
